@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_text_size">16sp</dimen>
+    <dimen name="btn_text_size_normal">14sp</dimen>
+
+
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_17">17sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_15">15sp</dimen>
+
+    <dimen name="dp_positive_25">25dp</dimen>
+    <dimen name="dp_positive_40">40dp</dimen>
+</resources>
